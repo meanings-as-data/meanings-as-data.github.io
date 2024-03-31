@@ -1,2 +1,2 @@
 # When data are meanings
-[page](./index)
+[web-page](https://meanings-as-data.github.io)
