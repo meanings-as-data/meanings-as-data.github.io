@@ -1,8 +1,8 @@
-# Github.io template. Index
+# When data are meanings
 <pre>
-  'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his book 
-  "Cybernetics, or Control and Communication in the Animal and the Machine".
+  Adaptation of algorithms to data that consists of meaningful sentences 
+  is a new class of problems, that should be fully understood as such.
 </pre>
-[Page 1](./pages/page_1)
+[The discussion about the meaning of the word "meaning" is over](./pages/page_1)
 
-[Page 2](./pages/page_2)
+[Practical examples and steps of construction](./pages/page_2)
